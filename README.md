@@ -4,7 +4,7 @@ It is extension of the spring framework.
 
 ********************************************************************************************************It will help to build a stand alone application using spring.********************************************************************************************************
 
-- Embedded we server (Tomcat, Jetty).
+- Embedded web server (Tomcat, Jetty).
 - Auto configuration of the Spring and 3rd party libraries.
 - Production ready.
 - Easy integration with popular tool Maven, Gradle, STS.
@@ -72,6 +72,6 @@ For more info take the source code from Github Repo:
 
 https://github.com/Karthikn-n/SpringBoot
 
-This is learned by Youtube channel: 
+I learned from Youtube channel: 
 
 https://www.youtube.com/watch?v=wsq1-m1dy_I&list=PL41m5U3u3wwkJXP69jYLzBnFoldbDr5FR
